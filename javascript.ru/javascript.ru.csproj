@@ -38,10 +38,14 @@
   <ItemGroup>
     <Content Include="2.1\2.1.html" />
     <Content Include="2.1\2.1.js" />
+    <Content Include="2.5\2.5.html" />
+    <Content Include="2.5\2.5.js" />
     <Content Include="2.6\2.6.html" />
     <Content Include="2.6\2.6.js" />
     <Content Include="2.8.1\2.8.1.html" />
     <Content Include="2.8.1\2.8.1.js" />
+    <Content Include="2.8.2\2.8.2.html" />
+    <Content Include="2.8.2\2.8.2.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
