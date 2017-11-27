@@ -38,6 +38,8 @@
   <ItemGroup>
     <Content Include="2.10.1\2.10.1.html" />
     <Content Include="2.10.1\2.10.1.js" />
+    <Content Include="2.11.1\2.11.1.html" />
+    <Content Include="2.11.1\2.11.1.js" />
     <Content Include="2.1\2.1.html" />
     <Content Include="2.1\2.1.js" />
     <Content Include="2.5\2.5.html" />
