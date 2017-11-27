@@ -39,6 +39,7 @@
     <Content Include="2.10.1\2.10.1.html" />
     <Content Include="2.10.1\2.10.1.js" />
     <Content Include="2.10.3\2.10.3.html" />
+    <Content Include="2.10.2\2.10.2.js" />
     <Content Include="2.11.1\2.11.1.html" />
 <<<<<<< .mine
     <Content Include="2.10.3\2.10.3.js" />
