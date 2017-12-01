@@ -38,14 +38,14 @@
   <ItemGroup>
     <Content Include="2.10.1\2.10.1.html" />
     <Content Include="2.10.1\2.10.1.js" />
-    <Content Include="2.10.3\2.10.3.html" />
+    <Content Include="2.10.2\2.10.2.html" />
     <Content Include="2.10.2\2.10.2.js" />
-    <Content Include="2.11.1\2.11.1.html" />
-<<<<<<< .mine
+    <Content Include="2.10.3\2.10.3.html" />
     <Content Include="2.10.3\2.10.3.js" />
-=======
+    <Content Include="2.11.1\2.11.1.html" />
     <Content Include="2.11.1\2.11.1.js" />
->>>>>>> .theirs
+    <Content Include="2.12.2\2.12.2.html" />
+    <Content Include="2.12.2\2.12.2.js" />
     <Content Include="2.1\2.1.html" />
     <Content Include="2.1\2.1.js" />
     <Content Include="2.5\2.5.html" />
