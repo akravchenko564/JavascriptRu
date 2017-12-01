@@ -46,6 +46,8 @@
     <Content Include="2.11.1\2.11.1.js" />
     <Content Include="2.12.1\2.12.1.html" />
     <Content Include="2.12.1\2.12.1.js" />
+    <Content Include="2.12.2\2.12.2.html" />
+    <Content Include="2.12.2\2.12.2.js" />
     <Content Include="2.1\2.1.html" />
     <Content Include="2.1\2.1.js" />
     <Content Include="2.5\2.5.html" />
